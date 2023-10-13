@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bart</h1>
-<h3 align="center">A data & visualization analyst focused on SQL, Python & Power BI.</h3>
+<h3 align="center">Date Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
